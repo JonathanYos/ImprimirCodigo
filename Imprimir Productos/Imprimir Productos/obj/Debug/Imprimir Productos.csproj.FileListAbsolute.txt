@@ -1,0 +1,10 @@
+C:\Users\JonathanY\Desktop\Proyecto Final\Imprimir codigos\Imprimir Productos\Imprimir Productos\bin\Debug\Imprimir Productos.exe.config
+C:\Users\JonathanY\Desktop\Proyecto Final\Imprimir codigos\Imprimir Productos\Imprimir Productos\bin\Debug\Imprimir Productos.exe
+C:\Users\JonathanY\Desktop\Proyecto Final\Imprimir codigos\Imprimir Productos\Imprimir Productos\bin\Debug\Imprimir Productos.pdb
+C:\Users\JonathanY\Desktop\Proyecto Final\Imprimir codigos\Imprimir Productos\Imprimir Productos\obj\Debug\Imprimir Productos.csprojResolveAssemblyReference.cache
+C:\Users\JonathanY\Desktop\Proyecto Final\Imprimir codigos\Imprimir Productos\Imprimir Productos\obj\Debug\Imprimir_Productos.Form1.resources
+C:\Users\JonathanY\Desktop\Proyecto Final\Imprimir codigos\Imprimir Productos\Imprimir Productos\obj\Debug\Imprimir_Productos.Properties.Resources.resources
+C:\Users\JonathanY\Desktop\Proyecto Final\Imprimir codigos\Imprimir Productos\Imprimir Productos\obj\Debug\Imprimir Productos.csproj.GenerateResource.Cache
+C:\Users\JonathanY\Desktop\Proyecto Final\Imprimir codigos\Imprimir Productos\Imprimir Productos\obj\Debug\Imprimir Productos.exe
+C:\Users\JonathanY\Desktop\Proyecto Final\Imprimir codigos\Imprimir Productos\Imprimir Productos\obj\Debug\Imprimir Productos.pdb
+C:\Users\JonathanY\Desktop\Proyecto Final\Imprimir codigos\Imprimir Productos\Imprimir Productos\obj\Debug\Imprimir Productos.csproj.ResolveComReference.cache
